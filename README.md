@@ -28,4 +28,4 @@ This project focuses on manual testing of the Todoist application to evaluate it
 - Boundary Value Analysis
 
 ## Project Type
-Manual Software Testing# Todoist
+Manual Software Testing
