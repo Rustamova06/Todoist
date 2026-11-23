@@ -15,7 +15,7 @@ This project focuses on manual testing of the Todoist application to evaluate it
 ## Testing Documentation
 
 
-[Test Plan](https://docs.google.com/document/d/11Bo5WfgbGxdd9r1npcANdCmYHFViKLDu6kV6nFgmdoE/edit?usp=sharing) 
+[Test Plan](https://docs.google.com/document/d/11Bo5WfgbGxdd9r1npcANdCmYHFViKLDu6kV6nFgmdoE/edit?usp=sharing)
 [Checklist](https://docs.google.com/spreadsheets/d/1O7AkELyip_b4JcitTORVThATKPS7oJMVZj4ymN0_0uQ/edit?usp=sharing) 
 [Test Scenarios](https://docs.google.com/spreadsheets/d/1mD-hFXJHuRwVnkT2YNDDRvPtGuMFkQSJl5i7DSIihqU/edit?usp=sharing) 
 [Test Cases](https://docs.google.com/spreadsheets/d/1869GiROxK7hGRM8U0eMM4zXr3set6p9UMHG22Iz_Dxk/edit?usp=sharing) 
